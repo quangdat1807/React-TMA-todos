@@ -16,7 +16,7 @@ function App() {
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a href="/" className="navbar-brand">
-          QD
+          DQD
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
